@@ -25,4 +25,6 @@ Directory | Description
 + **Paid Support:** [Aspose.PDF for Java Paid Support Forum](https://helpdesk.aspose.com/)
 + **Blog:** [Aspose.PDF for Java Blog](https://blog.aspose.com/category/aspose-products/aspose-pdf-product-family/)
 
+用户也可以使用usermod命令修改shell信息，在root权限下执行如下命令，其中_new\_shell\_path_为目标shell路径，_username_为要修改用户的用户名，请根据实际情况修改：
+
 <_ip\_host_\>:<_host_\>
